@@ -1,0 +1,7 @@
+[Warn  - 오후 12:17:50] 03:17:50.017 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Info  - 오후 12:17:50] 03:17:50.041 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///root/shell"...
+[Info  - 오후 12:17:50] 03:17:50.064 INFO BackgroundAnalysis: Glob resolved with 90 files after 0.023 seconds
+[Warn  - 오후 12:17:50] 03:17:50.087 WARNING ⛔️ Error while parsing file:///root/shell/userdel.sh: syntax error
+[Warn  - 오후 12:17:50] 03:17:50.152 WARNING ⛔️ Error while parsing file:///root/shell/project01/~/vscode/User/History/2144d87f/cM5G.sh: syntax error
+[Info  - 오후 12:17:50] 03:17:50.162 INFO BackgroundAnalysis: Completed after 0.121 seconds.
+[Warn  - 오후 12:17:50] 03:17:50.548 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'

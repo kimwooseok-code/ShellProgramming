@@ -1,0 +1,75 @@
+[Warn  - 오전 11:53:45] 02:53:45.701 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Info  - 오전 11:53:45] 02:53:45.722 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///root/shell"...
+[Info  - 오전 11:53:45] 02:53:45.741 INFO BackgroundAnalysis: Glob resolved with 65 files after 0.019 seconds
+[Warn  - 오전 11:53:45] 02:53:45.768 WARNING ⛔️ Error while parsing file:///root/shell/userdel.sh: syntax error
+[Warn  - 오전 11:53:45] 02:53:45.852 WARNING ⛔️ Error while parsing file:///root/shell/project01/~/vscode/User/History/-4c05736/cM5G.sh: syntax error
+[Info  - 오전 11:53:45] 02:53:45.860 INFO BackgroundAnalysis: Completed after 0.138 seconds.
+[Warn  - 오전 11:53:46] 02:53:46.227 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'
+[Warn  - 오전 11:55:31] 02:55:31.482 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:55:32] 02:55:32.679 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:43] 02:57:43.073 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:45] 02:57:45.216 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:49] 02:57:49.855 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:50] 02:57:50.239 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:53] 02:57:53.943 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:54] 02:57:54.061 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:55] 02:57:55.086 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:55] 02:57:55.719 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:55] 02:57:55.975 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:59] 02:57:59.151 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:57:59] 02:57:59.412 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:58:02] 02:58:02.574 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:58:03] 02:58:03.295 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:58:03] 02:58:03.727 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:58:05] 02:58:05.391 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:58:05] 02:58:05.943 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:58:06] 02:58:06.240 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:58:06] 02:58:06.808 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:58:09] 02:58:09.376 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:58:12] 02:58:12.377 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오전 11:58:16] 02:58:16.167 WARNING ⛔️ Error while parsing file:///root/shell/project01/ping.sh: syntax error
+[Warn  - 오후 12:04:06] 03:04:06.210 WARNING ⛔️ file:///root/shell/test.sh line 2: failed to resolve path
+[Warn  - 오후 12:04:06] 03:04:06.311 WARNING ⛔️ file:///root/shell/test.sh line 2: failed to resolve path
+[Warn  - 오후 12:04:07] 03:04:07.553 WARNING ⛔️ file:///root/shell/test.sh line 2: failed to resolve path
+[Warn  - 오후 12:08:36] 03:08:36.814 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:08:37] 03:08:37.943 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:08:38] 03:08:38.044 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:08:38] 03:08:38.783 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:08:39] 03:08:39.308 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:08:39] 03:08:39.658 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:08:40] 03:08:40.342 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:08:40] 03:08:40.621 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:08:59] 03:08:59.644 WARNING ⛔️ file:///root/shell/check_network.sh line 10: failed to resolve path
+[Warn  - 오후 12:09:56] 03:09:56.028 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:09:58] 03:09:58.956 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:01] 03:10:01.123 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:27] 03:10:27.176 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:27] 03:10:27.708 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:28] 03:10:28.588 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:29] 03:10:29.059 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:29] 03:10:29.409 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:29] 03:10:29.811 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:29] 03:10:29.996 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:30] 03:10:30.524 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:30] 03:10:30.890 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:31] 03:10:31.845 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:31] 03:10:31.937 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:32] 03:10:32.382 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:32] 03:10:32.949 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:33] 03:10:33.037 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:33] 03:10:33.121 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:33] 03:10:33.169 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:33] 03:10:33.526 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:34] 03:10:34.149 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:34] 03:10:34.308 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:10:35] 03:10:35.043 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:11:21] 03:11:21.835 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:11:21] 03:11:21.937 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:11:22] 03:11:22.363 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:11:22] 03:11:22.471 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:11:23] 03:11:23.534 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:12:09] 03:12:09.019 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:12:12] 03:12:12.005 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:12:12] 03:12:12.630 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:12:13] 03:12:13.760 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error
+[Warn  - 오후 12:12:20] 03:12:20.982 WARNING ⛔️ Error while parsing file:///root/shell/check_network.sh: syntax error

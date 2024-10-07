@@ -1,0 +1,10 @@
+2024-10-02 11:53:45.039 [info] Extension host with pid 3486 started
+2024-10-02 11:53:45.039 [info] Skipping acquiring lock for /root/shell/project01/~/vscode/User/workspaceStorage/70555140aa7cdd8788cb10703e881f5a.
+2024-10-02 11:53:45.200 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-02 11:53:45.201 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2024-10-02 11:53:45.711 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-02 11:53:45.719 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-02 11:53:45.719 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-02 11:53:45.795 [info] Eager extensions activated
+2024-10-02 11:53:45.811 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-02 11:53:45.812 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

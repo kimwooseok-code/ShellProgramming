@@ -1,0 +1,25 @@
+2024-10-02 10:44:07.924 [info] Extension host with pid 3631 started
+2024-10-02 10:44:07.963 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-02 10:44:08.007 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-02 10:44:08.071 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-02 10:44:08.151 [info] Eager extensions activated
+2024-10-02 10:44:08.263 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-02 10:44:08.265 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-02 10:44:10.583 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-02 10:44:10.591 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-02 10:44:10.639 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-02 10:44:10.690 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-02 10:44:16.645 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-02 10:44:16.662 [info] Extension host with pid 3631 exiting with code 0
+2024-10-02 10:44:17.311 [info] Extension host with pid 3768 started
+2024-10-02 10:44:17.311 [info] Skipping acquiring lock for /root/shell/project01/~/vscode/User/workspaceStorage/70555140aa7cdd8788cb10703e881f5a.
+2024-10-02 10:44:17.364 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-10-02 10:44:17.427 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-02 10:44:17.462 [info] Eager extensions activated
+2024-10-02 10:44:17.521 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-02 10:44:17.523 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-02 10:44:19.633 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-10-02 10:44:21.653 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2024-10-02 10:44:21.763 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-02 11:52:48.172 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-02 11:52:48.189 [info] Extension host with pid 3768 exiting with code 0

@@ -1,0 +1,5 @@
+[Warn  - 오후 1:25:13] 04:25:13.114 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Info  - 오후 1:25:13] 04:25:13.137 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///root/bin"...
+[Info  - 오후 1:25:13] 04:25:13.151 INFO BackgroundAnalysis: Glob resolved with 15 files after 0.014 seconds
+[Info  - 오후 1:25:13] 04:25:13.170 INFO BackgroundAnalysis: Completed after 0.033 seconds.
+[Warn  - 오후 1:25:13] 04:25:13.642 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'
